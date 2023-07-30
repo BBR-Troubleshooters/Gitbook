@@ -10,14 +10,14 @@ Step 1: Press the windows key + R on your keyboard and type in the "Open" dialog
 
 It should look like this:
 
-<figure><img src="../.gitbook/assets/PvK3FIhVf7.png" alt=""><figcaption><p>Run prompt</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/run_menu_appdata.png" alt=""><figcaption><p>Run prompt</p></figcaption></figure>
 
 Step 2: In the opened file explorer, search and open a file called "BttleBitConfig.ini":
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Appdata/roaming folder</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/appdata_folder_config_file.png" alt=""><figcaption><p>Appdata/roaming folder</p></figcaption></figure>
 
 Step 3: Find the resolution line and adjust it back to your monitor settings:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Battlebit config file</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/config_file.png" alt=""><figcaption><p>Battlebit config file</p></figcaption></figure>
 
 Step 4: Press save, close the file, and restart the game
