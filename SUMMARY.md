@@ -17,7 +17,8 @@
 ## 💥 Crashes
 
 * [🔘 BSoD on game launch (139)](crashes/bsod-on-game-launch-139.md)
-* [🔘 The application was unable to start correctly (0xc0000005).](crashes/the-application-was-unable-to-start-correctly-0xc0000005.md)
+* [🔘 The application was unable to start correctly (0xc0000005).](crashes/the-application-was-unable-to-start-correctly-0xc0000005/README.md)
+  * [🔘 I set my in-game resolution wrong and battlebit keeps crashing](crashes/the-application-was-unable-to-start-correctly-0xc0000005/i-set-my-in-game-resolution-wrong-and-battlebit-keeps-crashing.md)
 
 ## 📶 Connectivity
 
