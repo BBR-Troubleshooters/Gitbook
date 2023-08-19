@@ -4,7 +4,7 @@
 
 ## 🛡 EAC
 
-* [🔘 Make sure you have installed EasyAntiCheat and run the game with it.](eac/make-sure-you-have-installed-easyanticheat-and-run-the-game-with-it.md)
+* [🔘 Убедитесь, что вы установили EasyAntiCheat и запустите игру с ним.](eac/make-sure-you-have-installed-easyanticheat-and-run-the-game-with-it.md)
 * [🔘 Вы были исключены из игры античит службой.](eac/you-were-kicked-by-anti-cheat.md)
 * [🔘 Ошибка запуска - служба Easy Anti-Cheat не установлена.](eac/launch-error-easy-anti-cheat-is-not-installed.md)
 * [🔘 CreateFile failed with 32.](eac/createfile-failed-with-32.md)
