@@ -18,8 +18,8 @@
 
 * [🔘 Запуск из Steam](crashes/launch-from-steam.md)
 * [🔘 Синий экран смерти при запуске игры (139)](crashes/bsod-on-game-launch-139.md)
-* [🔘 The application was unable to start correctly (0xc0000005).](crashes/the-application-was-unable-to-start-correctly-0xc0000005.md)
-* [🔘 Wrong resolution](crashes/wrong-resolution.md)
+* [🔘 Ошибка при запуске приложения (0xc0000005).](crashes/the-application-was-unable-to-start-correctly-0xc0000005.md)
+* [🔘 Неправильное разрешение](crashes/wrong-resolution.md)
 
 ## 📶 Connectivity
 

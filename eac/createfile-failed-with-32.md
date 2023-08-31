@@ -8,7 +8,7 @@ description: >-
 
 
 
-<figure><img src="../.gitbook/assets/createfile32.png" alt="" width="400"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/createfile32.png" alt=""><figcaption></figcaption></figure>
 
 1. Перезагрузите ПК.
 2. Удалите файл`EasyAntiCheat_EOS.sys`, который расположен в папке `C:\Program Files (x86)\EasyAntiCheat_EOS`.
