@@ -1,6 +1,6 @@
 ---
 description: Beside EAC, your connection can also cause this issue.
-cover: ../.gitbook/assets/redtext.png
+cover: ../.gitbook/assets/redtext-1 (1).png
 coverY: 0
 layout:
   cover:
@@ -13,12 +13,12 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
 ---
 
-# Make sure you have installed EasyAntiCheat and run the game with it.
+# ◽ Make sure you have installed EasyAntiCheat and run the game with it.
 
 {% hint style="info" %}
 Steam is down for maintenance every Tuesday at 22:00 UTC. This error will appear if you try to join the game while Steam is down.

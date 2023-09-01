@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/eacnotinstalled.png
-coverY: 24.25866666666667
+coverY: 66.62576687116564
 layout:
   cover:
     visible: true
@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Launch Error - Easy Anti-Cheat is not installed.
+# ◽ Launch Error - Easy Anti-Cheat is not installed.
 
 Run the "Install & Repair Easy Anti Cheat" launch option.
 

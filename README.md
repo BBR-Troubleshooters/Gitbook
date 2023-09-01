@@ -37,3 +37,5 @@ layout:
 {% content-ref url="contribute.md" %}
 [contribute.md](contribute.md)
 {% endcontent-ref %}
+
+## Frequent issues
