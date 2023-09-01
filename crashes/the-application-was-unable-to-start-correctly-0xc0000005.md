@@ -15,7 +15,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/runasadmin.png" alt="" width="287"><figcaption><p>Right click on executable and click "Run as administrator".</p></figcaption></figure>
 
-3. [Run sfc/dism](../others/running-sfc-dism.md).
+3. [Run sfc/dism](../other/running-sfc-dism.md).
 4. Disable overclocking software if you have any.
 5. Verify game files.
 

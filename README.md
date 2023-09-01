@@ -30,8 +30,8 @@ layout:
 [you-were-kicked-by-anti-cheat.md](eac/you-were-kicked-by-anti-cheat.md)
 {% endcontent-ref %}
 
-{% content-ref url="others/your-account-is-being-reviewed-by-moderators.md" %}
-[your-account-is-being-reviewed-by-moderators.md](others/your-account-is-being-reviewed-by-moderators.md)
+{% content-ref url="other/your-account-is-being-reviewed-by-moderators.md" %}
+[your-account-is-being-reviewed-by-moderators.md](other/your-account-is-being-reviewed-by-moderators.md)
 {% endcontent-ref %}
 
 {% content-ref url="contribute.md" %}
