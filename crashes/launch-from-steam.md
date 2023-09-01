@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🔘 Launch from Steam
+# Launch from Steam
 
 If you experience this problem:
 
@@ -29,6 +29,6 @@ If you experience this problem:
 <figure><img src="../.gitbook/assets/properties.png" alt=""><figcaption></figcaption></figure>
 
 2. Paste this in your launch options (replace your game path if it's different):\
-   `"C:\Program Files (x86)\Steam\steamapps\common\BattleBit Remastered\EasyAntiCheat.exe" %command%`&#x20;
+   `"C:\Program Files (x86)\Steam\steamapps\common\BattleBit Remastered\EasyAntiCheat.exe" %command%`
 
 <figure><img src="../.gitbook/assets/launchoptionsfix.png" alt=""><figcaption><p>It should look like this. If your game path differs - replace it with your actual game path.</p></figcaption></figure>

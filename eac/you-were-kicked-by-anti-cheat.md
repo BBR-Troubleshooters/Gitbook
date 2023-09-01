@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/ackick.png
 coverY: -3.74785998472845
 ---
 
-# 🔘 You were kicked by anti cheat.
+# You were kicked by anti cheat.
 
 1. if you using custom lang file - get rid of it and you're good to go.
 2. Make sure that you don't have EAC entries in hosts file (`etc/hosts` or `C:\Windows\System32\drivers\etc\hosts`) which was needed for some games (Star Citizen as example).

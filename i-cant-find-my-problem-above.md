@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/general-help.png
+cover: .gitbook/assets/general-help.png
 coverY: 0
 layout:
   cover:
@@ -14,10 +14,10 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
-# 🤨 I can't find my problem above
+# ❗ I can't find my problem
 
 If you can't find your issue in the page list or those instructions don't help you, reach out to [#general-help](https://discord.com/channels/303681520202285057/1023557475242360852) in the [BattleBit Discord server](https://discord.com/battlebit) for assistance.\
 \

@@ -2,7 +2,7 @@
 description: Usual cause of this issue - corrupted game files.
 ---
 
-# 🔘 Unknown file version
+# Unknown file version
 
 <figure><img src="../.gitbook/assets/unknownfileversion.png" alt=""><figcaption></figcaption></figure>
 

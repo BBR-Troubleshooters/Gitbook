@@ -1,4 +1,4 @@
-# 🔘 Running sfc/dism
+# Running sfc/dism
 
 1. Run command prompt as administrator.
 

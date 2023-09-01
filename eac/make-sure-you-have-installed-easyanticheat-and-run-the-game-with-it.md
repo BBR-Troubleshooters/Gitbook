@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/redtext.png
 coverY: 0
 ---
 
-# 🔘 Make sure you have installed EasyAntiCheat and run the game with it.
+# Make sure you have installed EasyAntiCheat and run the game with it.
 
 {% hint style="info" %}
 Steam is down for maintenance every Tuesday at 22:00 UTC. This error will appear if you try to join the game while Steam is down.

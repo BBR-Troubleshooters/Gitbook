@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🔘 Invalid IPv6
+# Invalid IPv6
 
 If you're stuck on connection to master server and when you're pinging `api.battlebit.cloud` it resolves as Invalid IPv6, do next:
 

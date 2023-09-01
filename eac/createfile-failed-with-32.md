@@ -4,7 +4,7 @@ description: >-
   used by another process.
 ---
 
-# 🔘 CreateFile failed with 32.
+# CreateFile failed with 32.
 
 <figure><img src="../.gitbook/assets/createfile32.png" alt="" width="400"><figcaption></figcaption></figure>
 

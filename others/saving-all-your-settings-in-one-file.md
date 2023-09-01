@@ -4,7 +4,7 @@ description: >-
   sensitivity, UI and others into one file.
 ---
 
-# 🔘 Saving all your settings in one file
+# Saving all your settings in one file
 
 1. Open registry editor.
 

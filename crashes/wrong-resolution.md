@@ -2,7 +2,7 @@
 description: Crash caused by wrong resolution setting.
 ---
 
-# 🔘 Wrong resolution
+# Wrong resolution
 
 This page is for users that have manually adjusted their resolution to a value that has caused BattleBit to constantly crash upon loading the game. Here's how to fix it:
 
@@ -14,8 +14,8 @@ This page is for users that have manually adjusted their resolution to a value t
 
 <figure><img src="../.gitbook/assets/appdata_folder_config_file.png" alt=""><figcaption><p>AppData/Roaming folder</p></figcaption></figure>
 
-3. &#x20;Set `customresolution` to true and `customscreenresolution` to match your monitor settings:
+3. Set `customresolution` to true and `customscreenresolution` to match your monitor settings:
 
 <figure><img src="../.gitbook/assets/config_file.png" alt=""><figcaption><p>BattleBit config file</p></figcaption></figure>
 
-4. &#x20;Save your changes and close config file.
+4. Save your changes and close config file.

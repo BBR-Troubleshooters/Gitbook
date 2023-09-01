@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🔘 Launch Error - Easy Anti-Cheat is not installed.
+# Launch Error - Easy Anti-Cheat is not installed.
 
 Run the "Install & Repair Easy Anti Cheat" launch option.
 

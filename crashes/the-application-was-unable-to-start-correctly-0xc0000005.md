@@ -4,7 +4,7 @@ description: >-
   forbidden/inacessible.
 ---
 
-# 🔘 The application was unable to start correctly (0xc0000005)
+# The application was unable to start correctly (0xc0000005).
 
 <figure><img src="../.gitbook/assets/0xc0000005.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -15,7 +15,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/runasadmin.png" alt="" width="287"><figcaption><p>Right click on executable and click "Run as administrator".</p></figcaption></figure>
 
-3. [Run sfc/dism](../other/running-sfc-dism.md).
+3. [Run sfc/dism](../others/running-sfc-dism.md).
 4. Disable overclocking software if you have any.
 5. Verify game files.
 
