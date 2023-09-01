@@ -6,7 +6,7 @@ coverY: -3.74785998472845
 
 # You were kicked by anti cheat.
 
-1. if you using custom lang file - get rid of it and you're good to go.
+1. If you using custom lang file - get rid of it and you're good to go.
 2. Make sure that you don't have EAC entries in hosts file (`etc/hosts` or `C:\Windows\System32\drivers\etc\hosts`) which was needed for some games (Star Citizen as example).
 3. Run the [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix/releases) (.bat file).
 4. Ensure that absolutely **NOTHING** blocks EAC connection (antivirus/firewall/ISP).
