@@ -19,6 +19,7 @@
   * [Wrong resolution](crashes/wrong-resolution.md)
 * [📶 Connectivity](connectivity/README.md)
   * [Invalid IPv6](connectivity/invalid-ipv6.md)
+  * [Cloudflare Warp](connectivity/cloudflare-warp.md)
 * [📑 Other](other/README.md)
   * [Your account is being reviewed by moderators.](other/your-account-is-being-reviewed-by-moderators.md)
   * [Running sfc/dism](other/running-sfc-dism.md)
