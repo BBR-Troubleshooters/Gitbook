@@ -2,7 +2,7 @@
 
 * [⚙ BattleBit - Документация по устранению ошибок](README.md)
 * [💬 Языки](languages.md)
-* [❗ Я не могу найти мою проблему](i-cant-find-my-problem-above.md)
+* [❗ Я не могу найти мою проблему](i-cant-find-my-problem.md)
 * [🛡 EAC](eac/README.md)
   * [Убедитесь, что вы установили EasyAntiCheat и запустите игру с ним.](eac/make-sure-you-have-installed-easyanticheat-and-run-the-game-with-it.md)
   * [Вы были исключены из игры античит службой.](eac/you-were-kicked-by-anti-cheat.md)
