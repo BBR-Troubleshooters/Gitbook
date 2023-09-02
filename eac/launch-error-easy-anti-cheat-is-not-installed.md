@@ -25,6 +25,6 @@ layout:
 
 Если при запуске игры у вас не появляются варианты запуска, выполните следующее:
 
-<figure><img src="../.gitbook/assets/properties (1).png" alt=""><figcaption><p>Нажмите ПКМ по игре и выберите "Свойства..."</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/properties.png" alt=""><figcaption><p>Нажмите ПКМ по игре и выберите "Свойства..."</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/askwhenstarting.png" alt="" width="563"><figcaption><p>Выберите вкладку "Общие" и под заголовком "ПАРАМЕТРЫ ЗАПУСКА" выберите "Спрашивать при запуске игры".</p></figcaption></figure>

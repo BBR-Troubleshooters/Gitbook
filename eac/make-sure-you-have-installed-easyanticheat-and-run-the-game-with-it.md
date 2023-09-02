@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/redtext.png
 coverY: 0
 ---
 
-# 🔘 Make sure you have installed EasyAntiCheat and run the game with it.
+# 🔘 Убедитесь, что вы установили EasyAntiCheat и запустите игру с ним.
 
 <details>
 
