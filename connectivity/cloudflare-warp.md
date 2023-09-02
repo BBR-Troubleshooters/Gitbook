@@ -38,7 +38,7 @@ Cloudflare Warp is a recursive DNS that tunnels your connection to the nearest C
 
 4. Click on the cloud icon.  For first time installs, you will get a notification about Cloudflare Warp.  Click Next and then accept.
    ![](../.gitbook/assets/cloudflare3.png)![](<../.gitbook/assets/cloudflare4 (1).png>)
-5. Once the Warp is setup, it will say "Disconnected" under the slide button.  Click on the big slide button to turn it on.\
+5. Once the Warp is setup, it will say "Disconnected" under the slide button.  Click on the big slide button to turn it on.
    ![](../.gitbook/assets/cloudflare5.gif)
 
 6. Once it is on, you are all set!
@@ -145,7 +145,7 @@ Follow instructions below for your distro.
 
 **Red Hat/CentOS**
 
-1.  Run the following commands (**Please note, the support Yum version is 8)**:\
+1.  Run the following commands (**Please note, the support Yum version is 8)**:
     
 
 
