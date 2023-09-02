@@ -24,4 +24,4 @@ If you see #0000000D error code, get rid of a process that interfere with EAC (i
 
 <figure><img src="../.gitbook/assets/sigverif.png" alt="" width="347"><figcaption><p>Proceed with driver signature verification by pressing "Start".</p></figcaption></figure>
 
-After its finished, you'll be prompted either with the list of unsigned drivers or message that everything's fine. In first case, depending on what drivers are unsigned, you may need to [reinstall](https://support.nzxt.com/hc/en-us/articles/4403882406555-Reinstalling-Graphic-Drivers)/update your GPU drivers or [run sfc/dism](../other/running-sfc-dism.md).
+After it's finished, you'll be prompted either with the list of unsigned drivers or message that everything's fine. In first case, depending on what drivers are unsigned, you may need to [reinstall](https://support.nzxt.com/hc/en-us/articles/4403882406555-Reinstalling-Graphic-Drivers)/update your GPU drivers or [run sfc/dism](../other/running-sfc-dism.md).

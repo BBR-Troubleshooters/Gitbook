@@ -1,6 +1,6 @@
 ---
 description: Beside EAC, your connection can also cause this issue.
-cover: ../.gitbook/assets/redtext.png
+cover: ../.gitbook/assets/redtext-1 (1).png
 coverY: 0
 layout:
   cover:
@@ -13,7 +13,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
 ---
@@ -30,7 +30,7 @@ Steam is down for maintenance every Tuesday at 22:00 UTC. This error will appear
 
 Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in installed files.
 
-1. Right click on the game, then go to manage and click on Browse local files.
+1. Right click on the game, then go to "Manage" and click on "Browse local files".
 
 <img src="../.gitbook/assets/browse.png" alt="Right click on the game, then go to manage and click on Browse local files" data-size="original">
 
@@ -57,7 +57,7 @@ Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in instal
 
 <summary>Step 3 - VCRedists</summary>
 
-Ensure that **BOTH** VCRedists installed properly - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) and [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). When running installers you should see 3 buttons - repair, uninstall and cancel as on screenshot below. If you can't see it - proceed with installation.
+Ensure that **BOTH** VCRedists are installed properly - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) and [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). When running installers you should see 3 buttons - repair, uninstall and cancel as shown on screenshots below. If you can't see it, then proceed with installation.
 
 <img src="../.gitbook/assets/vcredistx64.png" alt="" data-size="original"><img src="../.gitbook/assets/vcredistx86.png" alt="" data-size="original">
 
