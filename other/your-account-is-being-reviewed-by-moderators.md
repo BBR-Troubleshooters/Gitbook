@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🔘 Ваш аккаунт проверяется модераторами.
+# Ваш аккаунт проверяется модераторами.
 
 <figure><img src="../.gitbook/assets/review.png" alt="" width="563"><figcaption></figcaption></figure>
 

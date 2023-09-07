@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🔘 Untrusted system file
+# Untrusted system file
 
 <figure><img src="../.gitbook/assets/untrustedsysfile.png" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ description: >-
   недоступна/запись в ней запрещена.
 ---
 
-# 🔘 The application was unable to start correctly (0xc0000005).
+# Ошибка при запуске приложения (0xc0000005).
 
 <figure><img src="../.gitbook/assets/0xc0000005.jpg" alt=""><figcaption></figcaption></figure>
 

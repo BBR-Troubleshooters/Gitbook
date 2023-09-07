@@ -2,7 +2,7 @@
 description: 0xc0000139 - KERNEL_SECURITY_CHECK_FAILURE
 ---
 
-# 🔘 Синий экран смерти при запуске игры (139)
+# Синий экран смерти при запуске игры (139)
 
 <figure><img src="../.gitbook/assets/bsod139.png" alt=""><figcaption></figcaption></figure>
 

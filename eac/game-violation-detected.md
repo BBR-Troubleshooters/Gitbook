@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🔘 Game Security Violation Detected
+# Game Security Violation Detected
 
 <figure><img src="../.gitbook/assets/gameviolationdetected.png" alt=""><figcaption></figcaption></figure>
 

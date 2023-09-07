@@ -4,9 +4,7 @@ description: >-
   использования этого файла другим процессом.
 ---
 
-# 🔘 CreateFile failed with 32.
-
-
+# Ошибка запуска - CreateFile failed with 32.
 
 <figure><img src="../.gitbook/assets/createfile32.png" alt=""><figcaption></figcaption></figure>
 

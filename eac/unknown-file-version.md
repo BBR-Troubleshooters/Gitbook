@@ -2,7 +2,7 @@
 description: Обычно причина данной ошибки - повреждение файлов игры.
 ---
 
-# 🔘 Unknown file version
+# Unknown file version
 
 <figure><img src="../.gitbook/assets/unknownfileversion.png" alt=""><figcaption></figcaption></figure>
 
