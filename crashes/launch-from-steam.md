@@ -1,7 +1,7 @@
 ---
 description: >-
-  Game crashes instantly if launched from Steam, but runs fine if launched from
-  executables in installed files.
+  Le jeu crash instantanément au lancement via Steam, mais fonctionne s'il est lancé
+  par le .exe du jeu.
 cover: ../.gitbook/assets/launchfromsteam.png
 coverY: 0
 layout:
@@ -20,15 +20,15 @@ layout:
     visible: true
 ---
 
-# Launch from Steam
+# Lancer via Steam
 
-If you experience this problem:
+Si vous avez ce problème:
 
-1. Navigate to launch options by right clicking the game and pressing "Properties...".
+1. Naviguez vers les options de lancement en faisant clic droit sur le jeu et  "Propriétés...".
 
 <figure><img src="../.gitbook/assets/properties.png" alt=""><figcaption></figcaption></figure>
 
-2. Paste this in your launch options (replace your game path if it's different):\
+2. Collez ceci dans vos options de lancement (remplacez le chemin si votre jeu n'est pas au même endroit):\
    `"C:\Program Files (x86)\Steam\steamapps\common\BattleBit Remastered\EasyAntiCheat.exe" %command%`
 
-<figure><img src="../.gitbook/assets/launchoptionsfix.png" alt=""><figcaption><p>It should look like this. If your game path differs - replace it with your actual game path.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/launchoptionsfix.png" alt=""><figcaption><p>Ca devrait ressembler à ça. Si le chemin de votre jeu n'est pas le même - remplacez le par le vôtre.</p></figcaption></figure>

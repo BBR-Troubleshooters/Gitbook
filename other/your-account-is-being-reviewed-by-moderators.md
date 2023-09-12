@@ -12,12 +12,12 @@ layout:
     visible: true
 ---
 
-# Your account is being reviewed by moderators.
+# Votre compte est en cours de vérification par des modérateurs.
 
 <figure><img src="../.gitbook/assets/review.png" alt="" width="563"><figcaption></figcaption></figure>
 
-**First of all - be patient, this can take up to a few hours.**
+**Premièrement - soyez patient, çela peut prendre plusieurs heures.**
 
-This is not a ban but a timeout and it may be lifted after a game moderator has reviewed your gameplay. There are multiple factors of why the system has timed you out, as well as abnormal amount of reports for specified reason.\
+Ce n'est pas un ban, mais un timeout, et peut être levé après qu'un modérateur ait examiné votre dossier. Il y a plusieurs raisons possibles pour que le système vous ait mis un timeout, tel que un montant anormal de reports.\
 \
-**This can happen again** even after your timeout gets lifted. We understand that this system isn't perfect and developers looking into improving it.
+**Cela peut encore arriver**, même après vérification de votre dossier. Nous sachons que le système n'est pas parfait, et les développeurs cherchent déjà une solution pour l'améliorer.

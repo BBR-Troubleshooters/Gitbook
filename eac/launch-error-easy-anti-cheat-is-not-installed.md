@@ -17,14 +17,14 @@ layout:
     visible: true
 ---
 
-# Launch Error - Easy Anti-Cheat is not installed.
+# Erreur de lancement - Easy Anti-Cheat n'est pas installé.
 
-Run the "Install & Repair Easy Anti Cheat" launch option.
+Lancez "Installer & réparer EAC" en option de lancement.
 
 <figure><img src="../.gitbook/assets/repaireac.png" alt="" width="357"><figcaption></figcaption></figure>
 
-If you can't reach launch options, here's how you can bring it back:
+Si vous ne trouvez pas les options de lancement, voici comment faire:
 
-<figure><img src="../.gitbook/assets/properties.png" alt="" width="330"><figcaption><p>Right click on the game and press "Properties..."</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/properties.png" alt="" width="330"><figcaption><p>Cliquez droit sur le jeu and allez sur "Propriétés..."</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/askwhenstarting.png" alt="" width="563"><figcaption><p>Select "General" tab and under "Launch Options" select "Ask when starting game".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/askwhenstarting.png" alt="" width="563"><figcaption><p>Sélectionnez l'onglet "Général" et en dessous de "Options de lancement" selectionnez "Demander au démarrage du jeu".</p></figcaption></figure>

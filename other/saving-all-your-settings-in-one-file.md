@@ -4,13 +4,13 @@ description: >-
   sensitivity, UI and others into one file.
 ---
 
-# Saving all your settings in one file
+# Sauvegarder tous vos paramètres dans un fichier
 
-1. Open registry editor.
+1. Ouvrez l'éditeur de registre.
 
-<figure><img src="../.gitbook/assets/runregedit.png" alt=""><figcaption><p>Press Win+R, type<code>regedit.exe</code> and press enter.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/runregedit.png" alt=""><figcaption><p>Faites Win+R, tapez<code>regedit.exe</code> et appuyez sur Entrer.</p></figcaption></figure>
 
-2. Navigate to `HKEY_CURRENT_USER\SOFTWARE\BattleBitDevTeam\BattleBit`.
+2. Naviguez jusqu'à `HKEY_CURRENT_USER\SOFTWARE\BattleBitDevTeam\BattleBit`.
 
 <div align="center">
 
@@ -18,8 +18,8 @@ description: >-
 
 </div>
 
-3. Right click on `BattleBit` folder and press Export.
+3. Cliquez droit sur le dossier `BattleBit` et cliquez sur exporter.
 
 <figure><img src="../.gitbook/assets/battlebitexport.png" alt=""><figcaption></figcaption></figure>
 
-4. Save this file and then run it to restore your settings (keybinds, sensitivity, etc).
+4. Sauvegardez votre fichier et lancez-le pour retrouver vos paramètres (keybinds, sensibilité, etc).

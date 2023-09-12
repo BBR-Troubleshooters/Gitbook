@@ -19,3 +19,5 @@ layout:
 ## Soon to come
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Chinese - 中国人<br>( 即将到来 )</td><td><a href=".gitbook/assets/chinese-national-flag.jpg">chinese-national-flag.jpg</a></td></tr></tbody></table>
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">French (Soon™)</td><td><a href=".gitbook/assets/french-national-flag.jpg">french-national-flag.jpg</a></td></tr></tbody></table>

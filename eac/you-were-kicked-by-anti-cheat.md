@@ -12,11 +12,11 @@ coverY: -3.74785998472845
 4. Ensure that absolutely **NOTHING** blocks EAC connection (antivirus/firewall/ISP).
 5. Delete `Certificates` folder in Installed Files/`EasyAntiCheat` folder and verify game files.
 
-<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Right click on the game, then go to manage and click on Browse local files</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Right Cliquez sur le jeu, allez ensuite sur  manage and Cliquez sur Parcourir les fichierse locaux</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/delete.png" alt="" width="464"><figcaption><p>Go to <code>EasyAntiCheat</code> folder and delete <code>Certificates</code> folder.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt="" width="563"><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt="" width="563"><figcaption><p>Right Cliquez sur le jeu and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
 
 6. Change your IP by restarting modem/router or use private VPN/[Cloudflare WARP](https://1.1.1.1).
 7. [Check recent windows updates](ms-settings:windowsupdate-history) - if there was some update and after it you started experience this issue, [roll it back](https://www.itechtics.com/rollback-windows-updates/).
