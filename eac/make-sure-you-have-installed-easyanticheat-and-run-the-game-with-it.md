@@ -4,36 +4,36 @@ cover: ../.gitbook/assets/redtext.png
 coverY: 0
 ---
 
-# Make sure you have installed EasyAntiCheat and run le jeu with it.
+# Vérifiez que vous avez installé EasyAntiCheat and lancez le jeu avec.
 
 {% hint style="info" %}
-Steam is down for maintenance every Tuesday at 22:00 UTC. This error will appear if you try to join le jeu while Steam is down.
+Steam est en maintenance tous les Mardis à minuit (GMT+2) . Cette erreur peut apparaître si vous lancez le jeu quand steam est en maintenance.
 {% endhint %}
 
 <details>
 
-<summary>Step 1 - Running executables as admin</summary>
+<summary>Etape 1 - Lancer l'exécutable en tant qu'admin</summary>
 
-Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in installed files.
+Lancez `BattlebitEAC.exe` ou `EasyAntiCheat.exe` en tant qu'admin, le fichier est situé dans les fichier du jeu.
 
-1. Right Cliquez sur le jeu, allez ensuite sur  "Manage" and Cliquez sur "Browse local files".
+1. Cliquez droit sur le jeu, allez ensuite sur  "Gérer" et Cliquez sur "Parcourir les fichiers locaux".
 
-<img src="../.gitbook/assets/browse.png" alt="Right Cliquez sur le jeu, allez ensuite sur  manage and Cliquez sur Browse local files" data-size="original">
+<img src="../.gitbook/assets/browse.png" alt="Cliquez droit sur le jeu, allez ensuite sur gérer et Cliquez sur Parcourir les fichiers locaux" data-size="original">
 
-2. Right Cliquez sur executable and cliquez sur "Run as administrator".
+2. Cliquez droit sur l'exe et cliquez sur "Exécuter en tant qu'administrateur".
 
-<img src="../.gitbook/assets/runasadmin.png" alt="Right Cliquez sur executable and cliquez sur &#x22;Run as administrator&#x22;." data-size="original">
+<img src="../.gitbook/assets/runasadmin.png" alt="Cliquez droit sur l'exe et cliquez sur &#x22;Exécuter en tant qu'administrateur&#x22;." data-size="original">
 
 </details>
 
 <details>
 
-<summary>Step 2 - Run the <a href="https://github.com/livingflore/BattleBitEACFix/releases">EAC Fix batch</a></summary>
+<summary>Etape 2 - Lancez le fichier <a href="https://github.com/livingflore/BattleBitEACFix/releases">EAC Fix batch</a></summary>
 
-1. Go to [releases page](https://github.com/livingflore/BattleBitEACFix/releases).
-2. Download BattleBitEACFix.bat.
-3. Run the batch.
-4. You should see output as shown below.
+1. Allez sur [releases page](https://github.com/livingflore/BattleBitEACFix/releases).
+2. Téléchargez BattleBitEACFix.bat.
+3. LMancez le fichier batch.
+4. Vous devriez avoir le résultat ci-dessous.
 
 <img src="../.gitbook/assets/batchoutput.png" alt="" data-size="original">
 
@@ -41,9 +41,9 @@ Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in instal
 
 <details>
 
-<summary>Step 3 - VCRedists</summary>
+<summary>Etape 3 - VCRedists</summary>
 
-Ensure that **BOTH** VCRedists are installed properly - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) and [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). When running installers you should see 3 buttons - repair, uninstall and cancel as shown on screenshots below. If you can't see it, then proceed with installation.
+Vérifiez que **LES DEUX** VCRedists sont installés correctement - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) et [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). En lançant l'installateur, vous verrez 3 buttons - réparer, installer et annuler, comme ci-dessous. Si vous ne voyez pas toutes ces options, installez.
 
 <img src="../.gitbook/assets/vcredistx64.png" alt="" data-size="original"><img src="../.gitbook/assets/vcredistx86.png" alt="" data-size="original">
 
@@ -51,13 +51,13 @@ Ensure that **BOTH** VCRedists are installed properly - [x86](https://aka.ms/vs/
 
 <details>
 
-<summary>Step 4 - Connectivity issues</summary>
+<summary>Etape 4 - Problèmes de connexion</summary>
 
-This issue can happen when your connection unstable / Steam is down / you can't reach either EAC or BattleBit servers.
+Cette erreur peut survenir si vous avez une connexion instable / Steam est en maintenance / vous ne pouvez pas atteindre les serverus d'EAC ou BattleBit.
 
-1. Check Steam if you're in offline mode.
-2. Désactivez malware protection and firewall if you use third party antivirus (Kaspersky, Avast, etc).
-3. Try to use mobile hotspot instead of your main internet connection just to launch le jeu. If it happens that you don't have it, proceed to the next step.
-4. Use any **private** VPN or [Cloudflare WARP](https://install.appcenter.ms/orgs/cloudflare/apps/1.1.1.1-windows-1/distribution\_groups/release).
+1. Vérifiez sur Steam si vous êtes en mode hors-ligne.
+2. Désactivez la protection anti-malware  et le pare-feu si vous utilisez un autre antivirus (Kaspersky, Avast, etc).
+3. Essayez de partager la connexion de votre téléphone pour lancer le jeu. Si le problème est résolu, continuez à la prochaine étape.
+4. Utilisez n'importe quel VPN **privé** ou [Cloudflare WARP](https://install.appcenter.ms/orgs/cloudflare/apps/1.1.1.1-windows-1/distribution\_groups/release).
 
 </details>

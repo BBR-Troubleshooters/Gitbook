@@ -12,7 +12,7 @@ coverY: -3.74785998472845
 4. Ensure that absolutely **NOTHING** blocks EAC connection (antivirus/firewall/ISP).
 5. Delete `Certificates` folder in Installed Files/`EasyAntiCheat` folder and verify game files.
 
-<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Right Cliquez sur le jeu, allez ensuite sur  manage and Cliquez sur Browse local files</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Right Cliquez sur le jeu, allez ensuite sur  manage and Cliquez sur Parcourir les fichierse locaux</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/delete.png" alt="" width="464"><figcaption><p>Go to <code>EasyAntiCheat</code> folder and delete <code>Certificates</code> folder.</p></figcaption></figure>
 

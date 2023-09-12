@@ -2,4 +2,4 @@
 
 <figure><img src="../.gitbook/assets/untrustedsysfile.png" alt=""><figcaption></figcaption></figure>
 
-Depending on what driver causes this, you may need to [reinstall](https://support.nzxt.com/hc/en-us/articles/4403882406555-Reinstalling-Graphic-Drivers)/update your GPU drivers or [run sfc/dism](../other/running-sfc-dism.md).
+Suivant quel driver cause ce problème, vous devrez peut être [reinstaller](https://support.nzxt.com/hc/en-us/articles/4403882406555-Reinstalling-Graphic-Drivers)/mettre à jour vos drivers de carte graphique ou [run sfc/dism](../other/running-sfc-dism.md).
