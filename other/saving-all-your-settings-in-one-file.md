@@ -18,7 +18,7 @@ description: >-
 
 </div>
 
-3. Right click on `BattleBit` folder and press Export.
+3. Right Cliquez sur `BattleBit` folder and press Export.
 
 <figure><img src="../.gitbook/assets/battlebitexport.png" alt=""><figcaption></figcaption></figure>
 

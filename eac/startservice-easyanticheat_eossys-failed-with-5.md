@@ -15,6 +15,6 @@ description: 'Error 5: Access Denied'
 
 <figure><img src="../.gitbook/assets/registrypath.png" alt=""><figcaption><p>Go to <code>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EasyAntiCheat_EOS</code>.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/permissions.png" alt=""><figcaption><p>Right click on <code>EasyAntiCheat_EOS</code>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/permissions.png" alt=""><figcaption><p>Right Cliquez sur <code>EasyAntiCheat_EOS</code>.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/grantallapp.png" alt=""><figcaption><p>Click on "Full Control" Allow checkbox under "ALL APPLICATION PACKAGES" group.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/grantallapp.png" alt=""><figcaption><p>Cliquez sur "Full Control" Allow checkbox under "ALL APPLICATION PACKAGES" group.</p></figcaption></figure>

@@ -4,21 +4,22 @@ description: >-
   forbidden/inacessible.
 ---
 
-# The application was unable to start correctly (0xc0000005).
+# L'application n'a pas pu démarrer correctement (0xc0000005).
 
 <figure><img src="../.gitbook/assets/0xc0000005.jpg" alt=""><figcaption></figcaption></figure>
 
-1. If you use third-party antivirus make sure it's not interfering with the game and add BattleBit and EAC folder to exclusions. If it won't help - delete it (especially trend micro).
-2. Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in installed files.
+1. Si vous utilisez un antivirus autre que Windows defender, vérifiez bien qu'il n'interfère pas avec le jeu, et ajoutez BattleBit et le dossier EAC to les exclusions. Si ça ne fonctionne pas, tentez de le désactiver.
 
-<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Right click on the game, then go to manage and click on Browse local files</p></figcaption></figure>
+2. Essayez de lancer `BattlebitEAC.exe` ou `EasyAntiCheat.exe` en tant qu'administrateur.
 
-<figure><img src="../.gitbook/assets/runasadmin.png" alt="" width="287"><figcaption><p>Right click on executable and click "Run as administrator".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Cliquez droit sur le jeu, allez ensuite sur gérer et Cliquez sur "parcourir les fichiers locaux"</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/runasadmin.png" alt="" width="287"><figcaption><p>Cliquez droit sur l'executable et cliquez sur "Exécuter en tant qu'administrateur".</p></figcaption></figure>
 
 3. [Run sfc/dism](../other/running-sfc-dism.md).
-4. Disable overclocking software if you have any.
-5. Verify game files.
+4. Désactivez votre logiciel d'overclocking si vous en avez un.
+5. Vérifiez les fichiers du jeu.
 
-<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt=""><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt=""><figcaption><p>Cliquez droit sur le jeu and click "Propriétés...", Sélectionnez l'onglet "Fichiers installés" and appuyez sur "Vérifier l'intégriter des fichiers".</p></figcaption></figure>
 
-6. Reinstall the game on other drive/partition.
+6. Réinstallez le jeu sur un autre disque/partition.

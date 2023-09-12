@@ -4,7 +4,7 @@
 * [💬 Languages](languages.md)
 * [❗ I can't find my problem](i-cant-find-my-problem-above.md)
 * [🛡 EAC](eac/README.md)
-  * [Make sure you have installed EasyAntiCheat and run the game with it.](eac/make-sure-you-have-installed-easyanticheat-and-run-the-game-with-it.md)
+  * [Make sure you have installed EasyAntiCheat and run le jeu with it.](eac/make-sure-you-have-installed-easyanticheat-and-run-the-game-with-it.md)
   * [You were kicked by anti cheat.](eac/you-were-kicked-by-anti-cheat.md)
   * [Untrusted system file](eac/untrusted-system-file.md)
   * [Game Security Violation Detected](eac/game-violation-detected.md)

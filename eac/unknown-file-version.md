@@ -9,4 +9,4 @@ description: Usual cause of this issue - corrupted game files.
 1. Reboot your PC.
 2. Verify game files.
 
-<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt=""><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt=""><figcaption><p>Right Cliquez sur le jeu and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
