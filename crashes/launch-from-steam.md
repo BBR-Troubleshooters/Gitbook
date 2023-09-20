@@ -1,7 +1,7 @@
 ---
 description: >-
-  Game crashes instantly if launched from Steam, but runs fine if launched from
-  executables in installed files.
+  Jocul dă crash instant dacă este deschis din Steam, dar merge bine dacă este
+  deschis din executabile din fișierele instalate.
 cover: ../.gitbook/assets/launchfromsteam.png
 coverY: 0
 layout:
@@ -20,15 +20,15 @@ layout:
     visible: true
 ---
 
-# Launch from Steam
+# Pornire din Steam
 
-If you experience this problem:
+Dacă întâmpini această problemă:
 
-1. Navigate to launch options by right clicking the game and pressing "Properties...".
+1. Navighează la "Launch options" apăsând click dreapta pe joc și apăsând "Properties...".
 
 <figure><img src="../.gitbook/assets/properties.png" alt=""><figcaption></figcaption></figure>
 
-2. Paste this in your launch options (replace your game path if it's different):\
+2. Lipește asta în opțiunile tale de pornire (înlocuiește drumul spre joc dacă este diferit):\
    `"C:\Program Files (x86)\Steam\steamapps\common\BattleBit Remastered\EasyAntiCheat.exe" %command%`
 
-<figure><img src="../.gitbook/assets/launchoptionsfix.png" alt=""><figcaption><p>It should look like this. If your game path differs - replace it with your actual game path.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/launchoptionsfix.png" alt=""><figcaption><p>Ar trebui să arate așa. Dacă drumul spre jocul tău diferă - înlocuiește cu actualul tău drum spre joc.</p></figcaption></figure>
