@@ -8,6 +8,6 @@ description: >-
 
 <figure><img src="../.gitbook/assets/createfile32.png" alt="" width="400"><figcaption></figcaption></figure>
 
-1. Reboot your PC.
-2. Remove `EasyAntiCheat_EOS.sys` file located in `C:\Program Files (x86)\EasyAntiCheat_EOS`.
-3. Run the [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix/releases) (.bat file).
+1. Restartează-ți PC-ul.
+2. Scoate fișa `EasyAntiCheat_EOS.sys` localizată în `C:\Program Files (x86)\EasyAntiCheat_EOS`.
+3. Pornește [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix/releases) (fișă .bat).
