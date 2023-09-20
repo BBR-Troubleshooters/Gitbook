@@ -1,26 +1,26 @@
 ---
-description: Beside EAC, your connection can also cause this issue.
+description: Pe lângă EasyAntiCheat, conexiunea ta deasemeni poate crea această problemă.
 cover: ../.gitbook/assets/redtext.png
 coverY: 0
 ---
 
-# Make sure you have installed EasyAntiCheat and run the game with it.
+# Fii sigur că ai instalat EasyAntiCheat și pornește jocul cu acesta.
 
 {% hint style="info" %}
-Steam is down for maintenance every Tuesday at 22:00 UTC. This error will appear if you try to join the game while Steam is down.
+Steam este dat jos pentru mentenanță în fiecare marți la ora 22:00 UTC. Această eroare va apărea dacă tu încerci să intri în joc în timp ce Steam este dat jos.
 {% endhint %}
 
 <details>
 
-<summary>Step 1 - Running executables as admin</summary>
+<summary>Pasul 1 - Pornește executabilele ca admin</summary>
 
-Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in installed files.
+Încearcă să pornești`BattlebitEAC.exe` sau `EasyAntiCheat.exe` ca admin, localizate în fișierul instalat al jocului
 
-1. Right click on the game, then go to "Manage" and click on "Browse local files".
+1. Dă click dreapta pe joc, apoi mergi la "Manage" și dă click pe "Browse local files".
 
 <img src="../.gitbook/assets/browse.png" alt="Right click on the game, then go to manage and click on Browse local files" data-size="original">
 
-2. Right click on executable and click "Run as administrator".
+2. Dă click dreapta pe executabil, apoi dă click pe "Run as administrator".
 
 <img src="../.gitbook/assets/runasadmin.png" alt="Right click on executable and click &#x22;Run as administrator&#x22;." data-size="original">
 
@@ -28,12 +28,12 @@ Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in instal
 
 <details>
 
-<summary>Step 2 - Run the <a href="https://github.com/livingflore/BattleBitEACFix/releases">EAC Fix batch</a></summary>
+<summary>Pasul 2 - Pornește <a href="https://github.com/livingflore/BattleBitEACFix/releases">EAC Fix batch</a></summary>
 
-1. Go to [releases page](https://github.com/livingflore/BattleBitEACFix/releases).
-2. Download BattleBitEACFix.bat.
-3. Run the batch.
-4. You should see output as shown below.
+1. Mergi la [releases page](https://github.com/livingflore/BattleBitEACFix/releases).
+2. Instalează BattleBitEACFix.bat.
+3. Pornește batch-ul.
+4. O să vezi un output ca cel arătat mai jos.
 
 <img src="../.gitbook/assets/batchoutput.png" alt="" data-size="original">
 
@@ -41,9 +41,9 @@ Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in instal
 
 <details>
 
-<summary>Step 3 - VCRedists</summary>
+<summary>Pasul 3 - VCRedists</summary>
 
-Ensure that **BOTH** VCRedists are installed properly - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) and [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). When running installers you should see 3 buttons - repair, uninstall and cancel as shown on screenshots below. If you can't see it, then proceed with installation.
+Fii sigur că **AMBELE** VCRedits sunt instalate cum trebuie - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) și [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). Când pornești instalările ar trebui să vezi 3 butoane - repară, dezinstalează și anulează, așa cum se văd în capturile de ecran de mai jos. Dacă nu le vezi, atunci continuă cu instalarea.
 
 <img src="../.gitbook/assets/vcredistx64.png" alt="" data-size="original"><img src="../.gitbook/assets/vcredistx86.png" alt="" data-size="original">
 
@@ -51,13 +51,13 @@ Ensure that **BOTH** VCRedists are installed properly - [x86](https://aka.ms/vs/
 
 <details>
 
-<summary>Step 4 - Connectivity issues</summary>
+<summary>Pasul 4 - Probleme de conectivitate</summary>
 
-This issue can happen when your connection unstable / Steam is down / you can't reach either EAC or BattleBit servers.
+Această problemă poate apărea atunci când conexiunea ta este instabilă/ Steam este dat jos/ nu poți să te conectezi la serverele EAC sau BattleBIt.
 
-1. Check Steam if you're in offline mode.
-2. Disable malware protection and firewall if you use third party antivirus (Kaspersky, Avast, etc).
-3. Try to use mobile hotspot instead of your main internet connection just to launch the game. If it happens that you don't have it, proceed to the next step.
-4. Use any **private** VPN or [Cloudflare WARP](https://install.appcenter.ms/orgs/cloudflare/apps/1.1.1.1-windows-1/distribution\_groups/release).
+1. Verifică dacă ești pe offline mode pe Steam
+2. Dezactivează protecția de malware și firewall-u dacă folosești un antivirus third party (Kaspersky, Avast, etc).
+3. Încearcă să folosești hotspot mobil în locul conexiunii primare la internet doar pentru a deschide jocul. Dacă se întâmplă să nu îl ai, mergi la următorul pas
+4. Folosește orice VPN **privat** sau [Cloudflare WARP](https://install.appcenter.ms/orgs/cloudflare/apps/1.1.1.1-windows-1/distribution\_groups/release).
 
 </details>
