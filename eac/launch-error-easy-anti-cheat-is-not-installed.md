@@ -17,14 +17,14 @@ layout:
     visible: true
 ---
 
-# Launch Error - Easy Anti-Cheat is not installed.
+# Launch Error - Easy Anti-Cheat is not installed (Anti-Cheat nu este instalat).
 
-Run the "Install & Repair Easy Anti Cheat" launch option.
+Pornește cu opțiunea "Install & Repair Easy Anti Cheat".
 
 <figure><img src="../.gitbook/assets/repaireac.png" alt="" width="357"><figcaption></figcaption></figure>
 
-If you can't reach launch options, here's how you can bring it back:
+Dacă nu reușești să ajungi la opțiuni de lansare, poți să o aduci înapoi așa:
 
-<figure><img src="../.gitbook/assets/properties.png" alt="" width="330"><figcaption><p>Right click on the game and press "Properties..."</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/properties.png" alt="" width="330"><figcaption><p>Dă click dreapta pe joc și apasă "Properties..."</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/askwhenstarting.png" alt="" width="563"><figcaption><p>Select "General" tab and under "Launch Options" select "Ask when starting game".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/askwhenstarting.png" alt="" width="563"><figcaption><p>Selectează tab-ul "General" și sub "Launch Options" selectează "Ask when starting game".</p></figcaption></figure>

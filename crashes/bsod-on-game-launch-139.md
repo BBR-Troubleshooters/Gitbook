@@ -6,4 +6,4 @@ description: 0xc0000139 - KERNEL_SECURITY_CHECK_FAILURE
 
 <figure><img src="../.gitbook/assets/bsod139.png" alt=""><figcaption></figcaption></figure>
 
-Usually, cause of this issue is `EasyAntiCheat_EOS.sys` driver. To fix it, you need to [run sfc/dism](../other/running-sfc-dism.md) and [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix/releases) (.bat file).
+În general, cauza acestei probleme este driver-ul `EasyAntiCheat_EOS.sys`. Pentru al repara, trebuie să [pornești sfc/dism](../other/running-sfc-dism.md) și [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix/releases) (fișă .bat).

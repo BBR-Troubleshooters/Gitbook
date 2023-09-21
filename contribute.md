@@ -17,11 +17,10 @@ layout:
     visible: false
 ---
 
-# 💡 Contribute
+# 💡 Contribuie
 
-**You can help us by contributing to this documentation by simply investigating some issues that aren't being mentioned here.** \
+**Nepoți ajuta contribuind la acest document simplu, doar investigând unele probleme care nu sunt menționate aici.**\
 \
-We are still looking for translators for the documentation help us by translating it to your language.\
-See: [<mark style="color:red;">💬 Languages</mark>](languages.md)\
+Încă suntem în căutarea unor traducători pentru documentații. Ajută-ne traducând în limba ta. Vezi: [<mark style="color:red;">💬</mark>](languages.md)[<mark style="color:red;">Limbi</mark>](languages.md)\
 \
-If you want to do so, proceed to [BattleBit Troubleshooting](https://discord.gg/xVr6rdfpuk) discord and contact one of the Project Leads to designate yourself. Thank you!
+Dacă vrei să faci asta, mergi spre discord-ul [BattleBit Troubleshooting](https://discord.gg/xVr6rdfpuk) și contactează unul dintre liderii de proiect să te desemneze pe tine. Mulțumim!
