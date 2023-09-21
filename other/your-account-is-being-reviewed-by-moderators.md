@@ -12,12 +12,12 @@ layout:
     visible: true
 ---
 
-# Your account is being reviewed by moderators.
+# Contul tău este verificat de către moderatori.
 
 <figure><img src="../.gitbook/assets/review.png" alt="" width="563"><figcaption></figcaption></figure>
 
-**First of all - be patient, this can take up to a few hours.**
+**În primul rând - ai răbdare, acest proces poate dura până la câteva ore.**
 
-This is not a ban but a timeout and it may be lifted after a game moderator has reviewed your gameplay. There are multiple factors of why the system has timed you out, as well as abnormal amount of reports for specified reason.\
+Aceasta nu este o terminare a contului, ci un timeout și poate fi ridicat după ce un moderator al jocului ți-a verificat modul de joacă. Sunt mai mulți factori pentru care sistemul îți dă timeout, printe care un număr anormal de report-uri pentru un motiv anume.\
 \
-**This can happen again** even after your timeout gets lifted. We understand that this system isn't perfect and developers looking into improving it.
+**Acest lucru se poate întâmpla din nou** chiar și după ce timeout-ul este ridicat. Înțelegem că acest sistem nu este perfect și că developerii noștri muncesc să îl perfecționeze

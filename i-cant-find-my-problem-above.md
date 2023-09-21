@@ -17,13 +17,13 @@ layout:
     visible: false
 ---
 
-# ❗ I can't find my problem
+# ❗ Nu îmi pot găsi problema
 
-If you can't find your issue in the page list or those instructions don't help you, reach out to [#general-help](https://discord.com/channels/303681520202285057/1023557475242360852) in the [BattleBit Discord server](https://discord.com/battlebit) for assistance.\
+Dacă nu îți poți găsi problema în lista acestei pagini sau aceste instrucțiuni nu te ajută, mergi la [#general-help](https://discord.com/channels/303681520202285057/1023557475242360852) în [BattleBit Discord server](https://discord.com/battlebit) pentru asistență.\
 \
-When asking for help, please attach the following information:
+Când ceri ajutor, te rog atașează următoarele informații:
 
-1. Screenshot of the error
+1. Captură de ecran a erorii
 2. `service.log`:
    * Windows: `%appdata%\EasyAntiCheat`
    * Linux (Proton): `~/.local/share/Steam/steamapps/compatdata/671860/pfx/drive_c/users/steamuser/AppData/Roaming/EasyAntiCheat`
@@ -34,11 +34,11 @@ When asking for help, please attach the following information:
    * Windows: `C:\Users\%username%\AppData\LocalLow\BattleBitDevTeam\BattleBit\`
    * Linux (Proton): `~/.local/share/Steam/steamapps/compatdata/671860/pfx/drive_c/users/steamuser/AppData/LocalLow/BattleBitDevTeam/BattleBit`
 
-To navigate to the required folders:
+Pentru a naviga spre folder-ele cerute:
 
-* On Windows, press Win+R and paste the needed path to access the folder.
-* On Linux, use the terminal or a file explorer GUI to navigate to the specified path.
+* În Windows, apasă Win+R și lipește drumul necesar pentru a accesa folder-ul
+* În Linux, folosește terminal-ul sau un explorator de fișiere GUI pentru a naviga spre drumul specific.
 
 {% hint style="info" %}
-The Linux paths are only there if you use Proton with Steam, otherwise you can use a command like `find ~/ -name player.log` etc. to find the file.
+Drumurile Linux sunt acolo doar dacă folosești Proton cu Steam, altfel poți folosi o comandă precum `find ~/ -name player.log` etc. pentru a găsi fișierul.
 {% endhint %}
